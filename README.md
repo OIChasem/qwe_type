@@ -1,2 +1,2 @@
 # qwe_type
-practce type for children
+practice type for children
